@@ -1,7 +1,7 @@
 - 👋 Hi, I’m GANESAN.R
 - 👀 Interested in Frontend Web Development.
 - 🌱 I’m currently learning html, css, javascript, Bootstrap, Mysql, PHP and Reactjs.
-- 👉 you can follow me on social medias:
+- 👉 you can contact me on social medias:
 - 💟 Instagram(ganesangidon) 😉👉 https://instagram.com/ganesangidon/
 - 🔗 Linkedin(GANESAN R) 🙂👉 https://www.linkedin.com/in/ganesan-r-3083a8211
 

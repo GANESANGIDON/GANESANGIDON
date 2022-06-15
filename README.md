@@ -1,7 +1,7 @@
 - 👋 Hi, I’m GANESAN.R
 - 👀 Interested in Frontend Web Development.
 - 🌱 I’m currently learning html, css, javascript, Bootstrap, Mysql, PHP and Reactjs.
-- My portfolio: https://ganesangidon.github.io/Portfolio/
+- My portfolio: https://portfolio-ganesan.netlify.app/
 - 👉 you can contact me on social medias:
 - 💟 Instagram(ganesangidon) 😉👉 https://instagram.com/ganesangidon/
 - 🔗 Linkedin(GANESAN R) 🙂👉 https://www.linkedin.com/in/ganesanrajalingam
